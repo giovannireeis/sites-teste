@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body{
+    
+    background-image: linear-gradient(to right,#4568C7, #7644C7, #B6399D, #FE5341,  #FBB74C);
+}
+           
+main{
+    color: white;
+    text-shadow:13px 5px 5px black ;
+    background-color: rgba(23, 8, 37, 0.699);
+    width: 450px;
+    height: 550px;
+    margin: auto;
+    text-align: center;
+}
+p{
+    color: white;
+    text-shadow:5px 5px 5px black ;
+}
+input{
+    background-color: rgba(116, 92, 92, 0.822);
+}
+
+
+    

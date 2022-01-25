@@ -1,0 +1,82 @@
+body{
+    margin: 0px;
+    background-color:white
+}
+
+
+#layout{
+    height: 100vh;text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+
+#menu_superior{
+    
+    background-color: darkgray;background-image: url("https://img.freepik.com/vetores-gratis/fundo-abstrato-do-vetor-com-donut-pingando-esmalte-confeitaria-deliciosa-esmalte-doce-padrao-gotejando-acucar-esmalte-gotejando-ilustracao_1284-42849.jpg?size=338&ext=jpg");
+    width: 100%;
+
+
+
+}
+
+#menu_esquerdo{
+    width: 400px;
+    background: gainsboro;
+    height: 100%;
+    display: block;
+    margin-top: 20px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+
+
+#Conteudo{
+    background-color: white;
+    width:100%;
+    text-align: left;
+   
+
+    
+}
+
+
+#Titulo_menu_superior{
+    color: rgb(0, 0, 0);
+    font-size: 70px;
+    text-shadow: rgb(170, 106, 106) 10px 5px 5px ;
+    
+}
+
+#menu_esquerdo ul {
+    text-align: left ;
+    padding-left: 20px;
+    background: white;
+    display: block;
+    list-style-type: none;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    line-height: 40px;
+    height: 40px;
+    text-decoration: none;
+}
+
+
+
+
+.bolo{
+    background-color: gainsboro;
+    margin: 20px;
+    padding: 20px;
+    border:darkgray ;
+    border-radius: 10px;
+
+}
+
+.bolo img{
+   width: 500px;
+}
+
+
+   
+

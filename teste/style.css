@@ -1,0 +1,15 @@
+@charset "UTP-8";
+
+main{
+    background-color: burlywood;
+    width: 450px;
+    height: 400px;
+    margin: auto;
+}
+.campo1{
+    float: left;
+    width: 300px;
+}
+.campo2{
+    float:left;
+}
